@@ -4,6 +4,7 @@ class CartItem {
   final int quantity;
   final double price;
 
+
   CartItem({
     required this.id,
     required this.title,
