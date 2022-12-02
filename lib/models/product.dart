@@ -8,7 +8,6 @@ class Product {
   final String imageUrl;
   final ValueNotifier<bool> _isFavorite;
 
-
   Product({
     this.id,
     required this.title,
