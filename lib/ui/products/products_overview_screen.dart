@@ -1,9 +1,15 @@
 import 'package:flutter/material.dart';
+
 import 'package:myshop/ui/cart/cart_screen.dart';
+
 import 'package:provider/provider.dart';
+
 import 'products_grid.dart';
+
 import '../shared/app_drawer.dart';
+
 import '../cart/cart_manager.dart';
+
 import 'top_right_badge.dart';
 
 
