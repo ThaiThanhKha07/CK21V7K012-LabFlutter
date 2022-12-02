@@ -6,7 +6,6 @@ class OrderItem {
   final List<CartItem> products;
   final DateTime dateTime;
 
-
   int get productCount {
     return products.length;
   }
