@@ -8,7 +8,6 @@ class ProductDetailScreen extends StatelessWidget {
     super.key,
   });
 
-
   final Product product;
 
   @override
